@@ -1,3 +1,8 @@
+# ShinkaEvolve
+This repository is a fork of https://github.com/SakanaAI/ShinkaEvolve
+
+----
+
 <h1 align="center">
   <a href="shinka/favicon.png?raw=true"><img src="shinka/favicon.png?raw=true" width="180" /></a><br>
   <b><code>ShinkaEvolve</code>: Towards Open-Ended and Sample-Efficient Program Evolution 🧬</b><br>
